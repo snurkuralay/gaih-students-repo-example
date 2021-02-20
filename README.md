@@ -3,9 +3,7 @@
 
 **Course Date:** 15.02.2021  
 **Name:** Saliha Nur
-
 **Surname:**   Kuralay
-
 **Email:** snurkuralay@gmail.com  
 
 
